@@ -10,18 +10,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhnertDeveloper&layout=compact&hide_title=true&theme=radical)
 
-- **JavaScript**
-- **TypeScript**
-- **Python**
-- **Java**
-- **Shell**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" title="JavaScript" /> **JavaScript**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" title="Python" /> **Python**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25" title="PHP" /> **PHP**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25" title="Docker" /> **Docker**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" title="HTML" /> **HTML**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" title="CSS" /> **CSS**
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" title="Java" /> **Java**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" title="JavaScript" /> **JavaScript**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" title="Python" /> **Python**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25" title="PHP" /> **PHP**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="25" title="Docker" /> **Docker**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" title="HTML" /> **HTML**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" title="CSS" /> **CSS**
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" title="Java" /> **Java**
 
 ---
 
