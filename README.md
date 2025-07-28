@@ -10,6 +10,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhnertDeveloper&layout=compact&hide_title=true&theme=radical)
 
+## 🛠️ Principais linguagens usadas
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" title="JavaScript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" title="Python" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25" title="PHP" />
