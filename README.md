@@ -15,7 +15,6 @@
 - **Python**
 - **Java**
 - **Shell**
-- *(Adicione ou remova conforme sua atuação!)*
 
 ---
 
