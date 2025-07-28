@@ -3,7 +3,7 @@
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AhnertDeveloper&show_icons=true&theme=radical&count_private=true)
 
 > ⚠️ As estatísticas acima mostram apenas contribuições públicas.  
-> O número real de commits (incluindo privados e de organizações) aparece no gráfico de contribuições do GitHub acima.
+> O número real de commits (incluindo privados e de organizações) aparece no gráfico de contribuições do GitHub abaixo.
 
 
 ## 🛠️ Principais linguagens usadas
