@@ -12,8 +12,6 @@
 
 ## 🛠️ Principais linguagens usadas
 
-## 🛠️ Principais linguagens usadas
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" title="JavaScript" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" title="Python" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="25" title="PHP" />&nbsp;
