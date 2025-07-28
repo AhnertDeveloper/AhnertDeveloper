@@ -1,15 +1,29 @@
-# Gabriel Ahnert
+# Olá, eu sou o AhnertDeveloper 👋
 
-Bem-vindo ao meu repositório oficial no GitHub! Sou apaixonado por desenvolvimento de software e tecnologia, sempre em busca de expandir meus conhecimentos e contribuir para projetos incríveis.
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AhnertDeveloper&show_icons=true&theme=radical&count_private=true)
 
-## Sobre Mim
-- 🌱 Atualmente aprendendo novas tecnologias e ferramentas de desenvolvimento.
-- 💼 Trabalhando na Hotsales.
-- 💬 Pergunte-me sobre Desenvolvimento Web, JavaScript e tecnologias front-end.
-- 📫 Como me encontrar: [Meu Perfil no GitHub](https://github.com/AhnertDeveloper).
+> ⚠️ As estatísticas acima mostram apenas contribuições públicas.  
+> O número real de commits (incluindo privados e de organizações) aparece no gráfico de contribuições do GitHub acima.
 
-## Estatísticas de Contribuição
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=AhnertDeveloper&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-## Vamos Colaborar!
-Estou sempre aberto a novas colaborações e ideias. Sinta-se à vontade para explorar meus repositórios e contribuir para eles. Se tiver alguma sugestão ou apenas quiser bater um papo, não hesite em entrar em contato!
+## 🛠️ Principais linguagens usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AhnertDeveloper&layout=compact&hide_title=true&theme=radical)
+
+- **JavaScript**
+- **TypeScript**
+- **Python**
+- **Java**
+- **Shell**
+- *(Adicione ou remova conforme sua atuação!)*
+
+---
+
+### Sobre mim
+
+Desenvolvedor apaixonado por tecnologia e inovação.  
+Experiência com projetos privados e públicos, usando diversas stacks e atuando em empresas como Hotsales.
+
+---
+
+*Dica:* Para ver todos os meus commits (incluindo os privados e organizacionais), acesse o gráfico de contribuições no topo do perfil!
