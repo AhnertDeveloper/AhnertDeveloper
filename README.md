@@ -21,7 +21,7 @@
 ### Sobre mim
 
 Desenvolvedor apaixonado por tecnologia e inovação.  
-Experiência com projetos privados e públicos, usando diversas stacks e atuando em empresas como Hotsales.
+Experiência com projetos privados e públicos, usando diversas stacks...
 
 ---
 
