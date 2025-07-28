@@ -25,4 +25,3 @@ Experiência com projetos privados e públicos, usando diversas stacks e atuando
 
 ---
 
-*Dica:* Para ver todos os meus commits (incluindo os privados e organizacionais), acesse o gráfico de contribuições no topo do perfil!
