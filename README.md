@@ -32,4 +32,4 @@ Sou um **Desenvolvedor Full Stack Pleno** apaixonado por unir a robustez do PHP 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula)
 
 ---
-[LinkedIn](SEU_LINK_DO_LINKEDIN_AQUI) • [Email](mailto:SEU_EMAIL_AQUI)
+[LinkedIn](https://github.com/AhnertDeveloper)
