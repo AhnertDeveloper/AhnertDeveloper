@@ -5,7 +5,6 @@ Sou um **Desenvolvedor Full Stack Pleno** apaixonado por unir a robustez do PHP 
 - 🔭 **Atualmente trabalhando em:** Integrações de sistemas complexos e Agentes de IA.
 - 🌱 **Aprendendo:** Deep Learning, Fine-tuning de LLMs e Segurança Ofensiva.
 - 🎓 **Formação:** Ciência da Computação (Unopar).
-- ⚡ **Curiosidade:** Crio músicas eletrônicas e artes com IA no tempo livre.
 
 ## 🛠️ Tech Stack
 
