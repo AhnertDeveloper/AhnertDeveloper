@@ -26,9 +26,5 @@ Sou um **Desenvolvedor Full Stack Pleno** apaixonado por unir a robustez do PHP 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 📊 GitHub Stats
-
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula)
-
 ---
 [LinkedIn](https://github.com/AhnertDeveloper)
